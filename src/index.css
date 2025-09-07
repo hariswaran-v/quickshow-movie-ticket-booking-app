@@ -4,11 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@theme {
-  --color-primary: #f84565;
-  --color-primary-dull: #d63854;
-}
-
 * {
   font-family: "Outfit", "sans-serif";
   scrollbar-width: thin;
